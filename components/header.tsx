@@ -3,7 +3,6 @@
 import { Plus, ShoppingCart, Menu, Heart, User, X } from "lucide-react"
 import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
-// <CHANGE> Added useAuth and useCart hooks
 import { useAuth } from "@/contexts/auth-context"
 import { useCart } from "@/contexts/cart-context"
 import Link from "next/link"
