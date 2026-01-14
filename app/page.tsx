@@ -10,59 +10,75 @@ import { ProductCard } from "@/components/product-card"
 // Sample Medicine Data
 const MEDICINES = [
   {
-    id: 1,
-    name: "Regenerative Pain Relief",
-    category: "Therapeutics",
-    image: "/ibuprofen-capsules.jpg",
-    price: "₹899",
-    priceNumber: 899,
-    description: "Advanced formula for rapid pain relief and anti-inflammatory support.",
-  },
+  id: 1,
+  name: "HepBest (Tenofovir Alafenamide Tablets 25mg)",
+  category: "Antiviral / Clinical",
+  image: "https://5.imimg.com/data5/EK/XO/WD/SELLER-38103990/tenofovir-alafenamide-tablets.jpg",
+  price: "₹1,599",
+  priceNumber: 1599,
+  description: "Tenofovir Alafenamide 25mg tablets used for chronic Hepatitis B management. Helps reduce viral load and supports liver health as prescribed by a specialist.",
+}
+,
   {
-    id: 2,
-    name: "Immune Catalyst 500",
-    category: "Vitality",
-    image: "/vitamin-c-tablets.png",
-    price: "₹1,249",
-    priceNumber: 1249,
-    description: "High-potency Vitamin C supplement for enhanced immune system function.",
-  },
+  id: 2,
+  name: "Zerodol-SP Tablet",
+  category: "Pain Relief / Therapeutics",
+  image: "https://www.practostatic.com/practopedia-images/v3/res-750/zerodol-sp-tablet-10-s_404d2128-fd3e-43ac-ba74-3a30ba35525c.JPG",
+  price: "₹120",
+  priceNumber: 120,
+  description: "Combination of Aceclofenac, Paracetamol & Serratiopeptidase for relief from pain, swelling, and inflammation. Use only as prescribed by a doctor.",
+}
+,
   {
-    id: 3,
-    name: "Advanced Respiratory Care",
-    category: "Essentials",
-    image: "/allergy-medicine.png",
-    price: "₹650",
-    priceNumber: 650,
-    description: "Effective relief from respiratory discomfort and common allergies.",
-  },
+  id: 3,
+  name: "ChiroRab (Rabies Vaccine, Human I.P.) 1ml",
+  category: "Vaccine / Clinical",
+  image: "/allergy-medicine.png",
+  price: "₹350",
+  priceNumber: 350,
+  description: "Human rabies vaccine (PCEC) for intramuscular injection. Used for rabies prevention and post-exposure protection as advised by a doctor.",
+}
+,
   {
-    id: 4,
-    name: "Systemic Equilibrium",
-    category: "Digestive",
-    image: "/stomach-medicine.png",
-    price: "₹1,100",
-    priceNumber: 1100,
-    description: "Specialized digestive support for maintaining gut health and balance.",
-  },
+  id: 4,
+  name: "Humalog KwikPen (Insulin Lispro I.P.)",
+  category: "Diabetes / Clinical",
+  image: "/stomach-medicine.png",
+  price: "₹1,799",
+  priceNumber: 1799,
+  description: "Rapid-acting insulin (Insulin Lispro) in a convenient prefilled pen for diabetes management. Helps control blood sugar spikes after meals as prescribed by a doctor.",
+}
+,
   {
-    id: 5,
-    name: "Bacterial Defense Max",
-    category: "Clinical",
-    image: "/antibiotic-pills.jpg",
-    price: "₹1,599",
-    priceNumber: 1599,
-    description: "Broad-spectrum support for clinical bacterial defense and recovery.",
-  },
+  id: 5,
+  name: "NovoRapid FlexPen (Insulin Aspart I.P.)",
+  category: "Diabetes / Clinical",
+  image: "/antibiotic-pills.jpg",
+  price: "₹1,050",
+  priceNumber: 1050,
+  description: "Fast-acting insulin (Insulin Aspart) for effective blood sugar control in diabetes patients. Helps manage post-meal glucose levels quickly and safely.",
+}
+,
+  
   {
-    id: 6,
-    name: "Essential Lipid Balance",
-    category: "Vitality",
-    image: "/paracetamol-box.jpg",
-    price: "₹450",
-    priceNumber: 450,
-    description: "Standard clinical solution for temperature regulation and mild relief.",
-  },
+  id: 7,
+  name: "MED PLUS+ Sterile Powdered Disposable Latex Surgical Gloves",
+  category: "Clinical / Surgical",
+  image: "/med-plus-surgical-gloves.jpg",
+  price: "₹99",
+  priceNumber: 99,
+  description: "Sterile powdered disposable latex surgical gloves for safe, hygienic medical use. Premium quality with EO sterilization for reliable protection during procedures.",
+}
+,{
+  id: 8,
+  name: "Ozempic (Semaglutide Injection) 1mg",
+  category: "Diabetes / Clinical",
+  image: "/ozempic-semaglutide-1mg.jpg",
+  price: "₹9,999",
+  priceNumber: 9999,
+  description: "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+}
+
 ]
 
 export default function MedicineCatalog() {
@@ -100,21 +116,21 @@ export default function MedicineCatalog() {
           <div className="grid grid-cols-2 gap-4 animate-reveal opacity-0" style={{ animationDelay: "0.4s" }}>
             <div className="space-y-4 pt-8 md:pt-12">
               <div className="aspect-[4/5] rounded-2xl md:rounded-3xl overflow-hidden shadow-2xl shadow-primary/10 border-2 md:border-4 border-white">
-                <img src="/pharmacist-helping-patient.jpg" alt="Medical Care" className="w-full h-full object-cover" />
+                <img src="/pharmacist-helping-patient.jpg" alt="Medical Care" className="w-full h-full object-contain bg-white p-2" />
               </div>
               <div className="aspect-square rounded-2xl md:rounded-3xl overflow-hidden shadow-2xl shadow-primary/10 border-2 md:border-4 border-white">
-                <img src="/medical-pills-capsules.jpg" alt="Quality Meds" className="w-full h-full object-cover" />
+                <img src="/medical-pills-capsules.jpg" alt="Quality Meds" className="w-full h-full object-contain bg-white p-2" />
               </div>
             </div>
             <div className="space-y-4">
               <div className="aspect-square rounded-2xl md:rounded-3xl overflow-hidden shadow-2xl shadow-primary/10 border-2 md:border-4 border-white">
-                <img src="/doctor-stethoscope.jpg" alt="Expert Support" className="w-full h-full object-cover" />
+                <img src="/doctor-stethoscope.jpg" alt="Expert Support" className="w-full h-full object-contain bg-white p-2" />
               </div>
               <div className="aspect-[4/5] rounded-2xl md:rounded-3xl overflow-hidden shadow-2xl shadow-primary/10 border-2 md:border-4 border-white">
                 <img
                   src="/diverse-medical-equipment.png"
                   alt="Clinical Excellence"
-                  className="w-full h-full object-cover"
+                  className="w-full h-full object-contain bg-white p-2"
                 />
               </div>
             </div>
