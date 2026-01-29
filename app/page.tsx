@@ -13,7 +13,7 @@ const MEDICINES = [
   id: 1,
   name: "HepBest (Tenofovir Alafenamide Tablets 25mg)",
   category: "Antiviral / Clinical",
-  image: "https://5.imimg.com/data5/EK/XO/WD/SELLER-38103990/tenofovir-alafenamide-tablets.jpg",
+  image: "/image.png",
   price: "₹1,599",
   priceNumber: 1599,
   description: "Tenofovir Alafenamide 25mg tablets used for chronic Hepatitis B management. Helps reduce viral load and supports liver health as prescribed by a specialist.",
@@ -116,10 +116,10 @@ export default function MedicineCatalog() {
           <div className="grid grid-cols-2 gap-4 animate-reveal opacity-0" style={{ animationDelay: "0.4s" }}>
             <div className="space-y-4 pt-8 md:pt-12">
               <div className="aspect-[4/5] rounded-2xl md:rounded-3xl overflow-hidden shadow-2xl shadow-primary/10 border-2 md:border-4 border-white">
-                <img src="/pharmacist-helping-patient.jpg" alt="Medical Care" className="w-full h-full object-contain bg-white p-2" />
+                <img src="/image.png" alt="Medical Care" className="w-full h-full object-contain bg-white p-2" />
               </div>
               <div className="aspect-square rounded-2xl md:rounded-3xl overflow-hidden shadow-2xl shadow-primary/10 border-2 md:border-4 border-white">
-                <img src="/medical-pills-capsules.jpg" alt="Quality Meds" className="w-full h-full object-contain bg-white p-2" />
+                <img src="/image copy.png" alt="Quality Meds" className="w-full h-full object-contain bg-white p-2" />
               </div>
             </div>
             <div className="space-y-4">
