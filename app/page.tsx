@@ -64,7 +64,7 @@ const MEDICINES = [
     id: 7,
     name: "MED PLUS+ Sterile Powdered Disposable Latex Surgical Gloves",
     category: "Clinical / Surgical",
-    image: "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/gnsem6ircqxmwmjkprkw.jpg",
+    image: "https://www.practostatic.com/practopedia-images/v3/res-750/clop-g-cream-30gm_7cf21bf7-845e-4d64-8d5e-ed14e9d8de19.JPG",
     price: "₹99",
     priceNumber: 99,
     description:
@@ -74,7 +74,46 @@ const MEDICINES = [
     id: 8,
     name: "Ozempic (Semaglutide Injection) 1mg",
     category: "Diabetes / Clinical",
-    image: "/ozempic-semaglutide-1mg.jpg",
+    image: "https://ayushcare.in/cdn/shop/files/ZanduBalm25ml.png?crop=center&height=922&v=1683113125&width=922",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 9,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2024/10/461162064/EP/FV/XG/85825727/panderm-plus-cream-500x500.jpeg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 10,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://www.practostatic.com/practopedia-images/v3/res-750/betnovate-c-30grm-cream-1-s_40f8cc80-fc89-4f82-90a2-5448fe3ee1db.JPG",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 11,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://images.apollo247.in/pub/media/catalog/product/a/n/ano0003.png",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 12,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/ANDROID/Default/2025/6/515499939/CW/RY/RK/246946412/product-jpeg-500x500.jpg",
     price: "₹9,999",
     priceNumber: 9999,
     description:
