@@ -113,12 +113,359 @@ const MEDICINES = [
     id: 12,
     name: "Ozempic (Semaglutide Injection) 1mg",
     category: "Diabetes / Clinical",
-    image: "https://5.imimg.com/data5/ANDROID/Default/2025/6/515499939/CW/RY/RK/246946412/product-jpeg-500x500.jpg",
+    image: "https://5.imimg.com/data5/ANDROID/Default/2025/6/522111831/PC/MI/NQ/197261491/product-jpeg-1000x1000.jpg",
     price: "₹9,999",
     priceNumber: 9999,
     description:
       "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
   },
+  ,
+  {
+    id: 13,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://www.bing.com/th/id/OIP.uo9SvjF0oCyo3uMJns4l3QHaDi?w=359&h=211&c=8&rs=1&qlt=90&o=6&cb=ucfimg1&dpr=1.3&pid=3.1&rm=2&ucfimg=1",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },,
+  {
+    id: 14,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://www.bing.com/th/id/OIP.aTAQW2sE08Wde96EBbZoOgHaEo?w=229&h=211&c=8&rs=1&qlt=90&o=6&cb=ucfimg1&dpr=1.3&pid=3.1&rm=2&ucfimg=1",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },,
+  {
+    id: 15,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse1.mm.bing.net/th/id/OIP.BBkdd0rX-EMuPxMh_qD4uwHaHa?pid=ImgDet&w=187&h=187&c=7",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },,
+  {
+    id: 16,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://www.bing.com/th/id/OIP.XtCsnBPa9JBhFGdyil9MPQHaGV?w=214&h=211&c=8&rs=1&qlt=90&o=6&cb=ucfimg1&dpr=1.3&pid=3.1&rm=2&ucfimg=1",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },,
+  {
+    id: 17,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2024/4/407801097/RC/YV/RU/13501949/furosemide-20mg-spironolactone-50mg-tablets-1000x1000.jpeg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 18,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2022/1/AV/FS/MP/13166357/frusemde-ip-20mg-spironolactone-ip-50mg--1000x1000.jpg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 19,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://alleviareindia.com/wp-content/uploads/elementor/thumbs/evrysdi-qd79yu1mhqvj81z21wpnct3yk5svfcpw6zxtue1y14.webp",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },,
+  {
+    id: 20,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2025/10/551583915/XE/BP/CX/201394365/iressa-gefitinib-tablet-250-mgjpg-1000x1000.jpeg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },,
+  {
+    id: 21,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByTQ59EcvFFziNtmQAl_Xn3xaXBORhrI_uiCk5WMsBVilkBsZb5rENbQ&s",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },,
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://apollosage.in/assets/upload/blog/zerodol-sp-tablet_1758880022.webp",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },,
+  {
+    id: 23,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2024/7/438070405/II/LV/QT/86228023/tagrisso-osimertinib-80-mg-tablets-1000x1000.jpg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 24,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://cdn01.pharmeasy.in/dam/products/024365/bevac-vial-of-1ml-vaccine-3-1739969263.jpg?dim=480x480&q=75",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2024/5/418881443/FK/KY/WS/133082746/kamagra-fx-oral-jelly-500x500.jpg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://th.bing.com/th/id/R.f819385736704d0e5650a4867661ca64?rik=g8ZKgxAO3tiQ3A&riu=http%3a%2f%2fegyptiandrugstore.com%2fimage%2fcache%2fdata%2fmanar%2fnovoseven-400x400.png&ehk=alPpd0bbohYAnM1%2b6Yl5mLvEucxPIZwYZxUCI2YrLH0%3d&risl=&pid=ImgRaw&r=0",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2024/4/408657614/QN/XB/WR/10526113/faslodex-injection-500x500.jpg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse1.mm.bing.net/th/id/OIP.T5Bz7GBkQ21_YobF5ppfSgHaHa?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=187&h=187&c=7&dpr=1.3&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse3.mm.bing.net/th/id/OIP.Wnp7ihzSG2dnQax_5096MgHaHW?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://th.bing.com/th/id/OIP.ChVAJ5AZJ43pOAB9eZxkRAHaHa?w=177&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse1.mm.bing.net/th/id/OIP.M9VrUcTdJAqftaplawJ_5gAAAA?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=184&h=153&c=7&dpr=1.3&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse3.mm.bing.net/th/id/OIP.WYnZdRBtC4zghv0QW_fqBgHaFz?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=187&h=146&c=7&dpr=1.3&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  {
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse1.mm.bing.net/th/id/OIP.BBkdd0rX-EMuPxMh_qD4uwHaHa?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=187&h=187&c=7&dpr=1.3&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  } ,{
+    id: 23,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2023/2/LX/AD/RL/67230705/zoladex-injection-goserelin-acetate-500x500.jpeg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },
+  ,{
+    id: 24,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse3.mm.bing.net/th/id/OIP.pFY0DGfsUKebw6heSiq7WwAAAA?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=187&h=143&c=7&dpr=1.3&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 25,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse4.mm.bing.net/th/id/OIP.FwPIPC_T21l5ubSSsigZJQHaGt?cb=ucfimg2&pid=ImgDet&ucfimg=1&w=184&h=166&c=7&dpr=1.3&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 26,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse4.mm.bing.net/th/id/OIP.40ypQWZ0psmjipxgoYKTRwHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 27,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2022/2/CZ/HP/OA/13087301/cefoperazone-1000mg-sulbactam-500mg-1000x1000.jpg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 28,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse2.mm.bing.net/th/id/OIP.V13WGvVyiqUlWFOHESWxMAAAAA?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2023/4/303127563/WO/AI/OG/182944038/paracetamol-1000mg-intravenous-infusion-500x500.jpg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse3.mm.bing.net/th/id/OIP.RVUws3MDk9ttNlZMLfNC2gHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://gdmedz.net/wp-content/uploads/2018/12/velasof-28tablets_hetero_sofosbuvir-400mg-velpatasvir-100mg.jpg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://tse1.mm.bing.net/th/id/OIP.l8r-if_XRnBT1nB-GnkquQHaH_?rs=1&pid=ImgDetMain&o=7&rm=3",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://www.drugs.com/pro/images/16da660b-9981-4d24-a14a-94c7744fce4f/combivir-spl-graphic-03.jpg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://nowkamagra.com/wp-content/uploads/2023/10/Kamagra-100mg.webp",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://5.imimg.com/data5/SELLER/Default/2022/5/CX/ZL/CW/55019577/bevac-hepatitis-b-vaccine-ip-1000x1000.jpg",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://www.bing.com/th/id/OIP.Ak6fJtFCRG2WAmwT7HNoZAHaLT?w=160&h=211&c=8&rs=1&qlt=90&o=6&cb=ucfimg1&dpr=1.3&pid=3.1&rm=2&ucfimg=1",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  },{
+    id: 22,
+    name: "Ozempic (Semaglutide Injection) 1mg",
+    category: "Diabetes / Clinical",
+    image: "https://www.bing.com/th/id/OIP.a1QrcvNG7g2h_bNC_Nj-hAHaHa?w=211&h=211&c=8&rs=1&qlt=90&o=6&cb=ucfimg1&dpr=1.3&pid=3.1&rm=2&ucfimg=1",
+    price: "₹9,999",
+    priceNumber: 9999,
+    description:
+      "Once-weekly semaglutide injection in prefilled pen for diabetes management. Helps improve blood sugar control and supports weight management as prescribed by a doctor.",
+  }
 ]
 
 export default function MedicineCatalog() {
@@ -142,6 +489,7 @@ export default function MedicineCatalog() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {MEDICINES.map((m, i) => (
+              //@ts-ignore
               <ImageOnlyProductCard key={m.id} image={m.image} name={m.name} index={i} />
             ))}
           </div>
